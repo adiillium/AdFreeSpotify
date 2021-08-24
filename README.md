@@ -13,7 +13,7 @@
 Spotify-Desktop_v1.1.22.633
 Modified version of Spotify, removes all on screen advertisements and advertisements between songs.
 
-![image](https://cdn.discordapp.com/attachments/637326316487704630/879596588467617792/unknown.png)
+![image](https://cdn.discordapp.com/attachments/735897248285589507/879714235351973908/unknown.png)
 
 ## Prerequisite
 ```Uninstall any previous version of Spotify already installed on your Desktop```
